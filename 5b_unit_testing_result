@@ -1,0 +1,11 @@
+theia@theiadocker-ambrociojc:/home/project/final_project/oaqjp-final-project-emb-ai$ python3 -m pip install requests && python3 test_emotion_detection.py
+Max emotion: anger (0.6674731)
+.Max emotion: disgust (0.9193782)
+.Max emotion: fear (0.9907291)
+.Max emotion: joy (0.83237535)
+.Max emotion: sadness (0.9819713)
+.
+----------------------------------------------------------------------
+Ran 5 tests in 0.526s
+
+OK
